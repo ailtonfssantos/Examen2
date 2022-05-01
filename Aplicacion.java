@@ -19,6 +19,7 @@ import javax.swing.UnsupportedLookAndFeelException;
  *
  * @author AlumMati
  */
+//Comentario añadido en GitHub
 public class Aplicacion extends javax.swing.JFrame {
 
     /**
